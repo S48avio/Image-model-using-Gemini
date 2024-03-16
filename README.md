@@ -1,5 +1,5 @@
 # Image-model-using-Gemini
-Image recognition using Gemini-pro-vision and also query answering using Gemini-Pro
+<b>Image recognition using Gemini-pro-vision and also query answering using Gemini-Pro<b>
 <br>
 <b>Gemini-Pro<b>
 <br>
